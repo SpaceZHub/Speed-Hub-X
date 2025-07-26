@@ -1,1 +1,1 @@
-obfuscated script here
+loadstring(game:HttpGet("https://dpaste.com/HSJAYPSQ4.txt"))()
