@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://paste.rs/wh65I'))()
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/lib.lua'))()
